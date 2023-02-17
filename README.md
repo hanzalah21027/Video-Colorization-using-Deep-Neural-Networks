@@ -13,5 +13,9 @@ The Train file for each model is in their respective folder. Once model are trai
 ## Results
 
 ### GrayScale Video
+Uploading charlie-gray.mp4…
+
 
 ### Coloured Video
+Uploading charlie-colored.mp4…
+
